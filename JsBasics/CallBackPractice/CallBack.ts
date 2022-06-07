@@ -1,7 +1,7 @@
-const _batmanAppears = true;
-const _batmanDisappears = true;
+const batmanAppears = true;
+const batmanDisappears = true;
 
-function _heroAppearanceCallBack(callBack, errorCallBack) {
+function heroAppearanceCallBack(callBack, errorCallBack) {
     if (batmanDisappears) {
         errorCallBack({
             message: 'Where is Batman?' 
