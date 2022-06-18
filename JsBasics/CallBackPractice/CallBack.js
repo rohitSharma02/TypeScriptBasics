@@ -1,5 +1,5 @@
-var batmanAppears = false;
-var batmanDisappears = false;
+var batmanAppears = true;
+var batmanDisappears = true;
 function heroAppearanceCallBack(callBack, errorCallBack) {
     if (batmanDisappears) {
         errorCallBack({
