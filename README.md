@@ -12,3 +12,7 @@ Important Patterns
 1. Observer
 2. Factory
 3. Decorator
+
+Note:
+1. In TypeScript :(colun) used for explaining types and = (equal to) is used for values.
+
